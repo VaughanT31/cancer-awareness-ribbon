@@ -4,8 +4,8 @@ Tags: cancer, nonprofit, ribbon, shortcode, accessibility
 Requires at least: 5.8
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.5.0
-Version: 1.5.0
+Stable tag: 1.5.1
+Version: 1.5.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -238,5 +238,6 @@ Adds admin shortcode builder, default settings support, internal awareness refac
 == License ==
 
 This plugin is licensed under the GPLv2 or later.
+
 
 You are free to modify and redistribute this plugin under the same license.
