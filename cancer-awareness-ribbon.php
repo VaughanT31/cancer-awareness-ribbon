@@ -4,7 +4,7 @@
  * Plugin Name: Cancer Awareness Ribbon Shortcode
  * Plugin URI: https://www.parallelmedia.co.za/cancer-awareness-ribbon-demo/
  * Description: Adds a shortcode to display an awareness ribbon whose colors change based on the current month (or by type override).
- * Version: 1.5.0
+ * Version: 1.5.1
  * Author: Parallel Media
  * Author URI: https://parallelmedia.co.za
  * License: GPLv2 or later
@@ -489,3 +489,4 @@ function car_load_integrations(): void
     }
 }
 add_action('plugins_loaded', 'car_load_integrations', 30);
+
